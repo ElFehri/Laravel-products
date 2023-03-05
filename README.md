@@ -1,2 +1,2 @@
 # Laravel-products
-small project to show, add, edit or delete a productssssssssssssssssssssssssssssssssssssssssssssssssss
+small project to show, add, edit or delete a product
